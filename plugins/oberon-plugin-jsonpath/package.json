@@ -1,0 +1,14 @@
+{
+  "name": "oberon-plugin-jsonpath",
+  "version": "2.1.4",
+  "description": "Template tag to pull data from JSON strings",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "json-path",
+    "description": "Template tag to pull data out of JSON strings"
+  },
+  "dependencies": {
+    "jsonpath": "^1.0.0"
+  }
+}

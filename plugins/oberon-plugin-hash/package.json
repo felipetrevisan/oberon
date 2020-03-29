@@ -1,0 +1,14 @@
+{
+  "name": "oberon-plugin-hash",
+  "version": "2.1.4",
+  "description": "Oberon hash template tag",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "hash",
+    "core": true
+  },
+  "scripts": {
+    "test": "jest --silent"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "oberon-plugin-core-themes",
+  "version": "2.1.6",
+  "description": "Oberon core themes",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "core-themes"
+  },
+  "scripts": {
+    "test": "node --version"
+  }
+}

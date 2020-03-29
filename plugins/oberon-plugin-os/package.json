@@ -1,0 +1,14 @@
+{
+  "name": "oberon-plugin-os",
+  "version": "2.1.4",
+  "description": "Template tag to get information about the OS",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "os-info",
+    "description": "Get information about the OS"
+  },
+  "dependencies": {
+    "jsonpath": "^1.0.0"
+  }
+}

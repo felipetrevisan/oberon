@@ -1,0 +1,13 @@
+{
+  "name": "oberon-cookies",
+  "version": "2.1.4",
+  "description": "Cookie utilities",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "dependencies": {
+    "tough-cookie": "^2.3.3"
+  }
+}

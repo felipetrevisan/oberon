@@ -1,0 +1,17 @@
+{
+  "name": "oberon-plugin-request",
+  "version": "2.1.4",
+  "description": "Oberon request template tag",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "request"
+  },
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "dependencies": {
+    "oberon-cookies": "^2.1.4",
+    "oberon-url": "^2.1.4"
+  }
+}

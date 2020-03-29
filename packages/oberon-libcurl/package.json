@@ -1,0 +1,14 @@
+{
+  "name": "oberon-libcurl",
+  "version": "2.1.5",
+  "description": "Oberon libcurl wrapper",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --version"
+  },
+  "dependencies": {
+    "fstream": "^1.0.12",
+    "tar": "^4.4.10"
+  }
+}

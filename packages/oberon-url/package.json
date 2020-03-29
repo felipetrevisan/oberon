@@ -1,0 +1,10 @@
+{
+  "name": "oberon-url",
+  "version": "2.1.4",
+  "description": "URL Utilities",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --silent"
+  }
+}

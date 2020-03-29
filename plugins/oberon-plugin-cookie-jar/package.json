@@ -1,0 +1,16 @@
+{
+  "name": "oberon-plugin-cookie-jar",
+  "version": "2.1.5",
+  "description": "Oberon cookie jar template tag",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "cookieJar"
+  },
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "dependencies": {
+    "oberon-cookies": "^2.1.4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "oberon-plugin-uuid",
+  "version": "2.1.4",
+  "description": "Oberon uuid template tag",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "uuid"
+  },
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "dependencies": {
+    "uuid": "^3.1.0"
+  }
+}

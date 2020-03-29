@@ -1,0 +1,16 @@
+{
+  "name": "oberon-plugin-now",
+  "version": "2.1.4",
+  "description": "Oberon now template tag",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "now"
+  },
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "dependencies": {
+    "moment": "^2.21.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "oberon-prettify",
+  "version": "2.1.4",
+  "description": "Prettification utilities for Oberon",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}

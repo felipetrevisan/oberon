@@ -1,0 +1,11 @@
+{
+  "name": "oberon-plugin-default-headers",
+  "version": "2.1.4",
+  "description": "Various data importers for Oberon",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "default-headers",
+    "description": "Add default headers to requests"
+  }
+}

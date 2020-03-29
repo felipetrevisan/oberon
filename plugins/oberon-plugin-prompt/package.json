@@ -1,0 +1,12 @@
+{
+  "name": "oberon-plugin-prompt",
+  "version": "2.1.4",
+  "description": "Oberon prompt template tag",
+  "main": "index.js",
+  "oberon": {
+    "name": "prompt"
+  },
+  "scripts": {
+    "test": "node --version"
+  }
+}

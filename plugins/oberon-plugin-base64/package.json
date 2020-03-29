@@ -1,0 +1,14 @@
+{
+  "name": "oberon-plugin-base64",
+  "version": "2.1.4",
+  "description": "Oberon base64 template tag",
+  "license": "MIT",
+  "main": "index.js",
+  "oberon": {
+    "name": "base64",
+    "description": "Encode/Decode base64 strings"
+  },
+  "scripts": {
+    "test": "jest --silent"
+  }
+}
